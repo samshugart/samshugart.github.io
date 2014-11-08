@@ -1,0 +1,61 @@
+body {
+  background: rgb(255,255,255);
+ font-family: "Helvetica"", "Arial", sans-serof;
+ border-style:solid;
+ border-width:10px
+
+}
+h1 {
+  text-align: center;
+  margin-bottom:1px;
+}
+
+
+.info {
+  text-align: center;
+  margin-top:3px;
+}
+
+p{
+  margin-top:3px;
+}
+
+h2 {
+  margin-bottom:4px;
+}
+
+span {
+  display: inline-block;
+  float:right;
+  margin-right:30px;
+}
+
+h4 {
+  color:rgb(0,0,0);
+  margin-top:1px;
+  margin-bottom:2px;
+}
+
+ul {
+  margin-top:0.5px;
+  margin-bottom:20px;
+}
+
+
+.g {
+  color: rgb(0,0,0);
+}
+
+p {
+  padding: 3px
+  margins: 10px
+}
+
+a{
+  color:blue;
+}
+
+a:hover{
+  color:red;
+  opacity:0.5;
+}
